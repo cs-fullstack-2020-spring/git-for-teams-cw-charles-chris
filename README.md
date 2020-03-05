@@ -1,5 +1,8 @@
-ori# Git for Teams - Classwork Assignment
-
+# Git for Teams - Classwork Assignment
+### Please delete unused files. You didn't create an HTML form, your JS is incomplete, and you have a bunch of empty classes in your CSS.
+#### Group Score : 1/3
+#### Charles : 2
+#### Chris : 2
 ### Assignment
 * Before you begin this assignment read all directions and decide how to break up the work
 * Create an HTML, JS, and CSS file
