@@ -1,8 +1,9 @@
 body{
 
-border: black solid 3px;
+
 margin: 20px;
 padding: 20px;
+
 }
 .contact{
      
@@ -17,7 +18,21 @@ padding: 20px;
     
 }
 #button{
-     background-color: blue;
+     background-color: rgb(23, 156, 209);
      color: white;
-     margin-left: 1400px;
+     margin-left: 700px;
+     margin-top: 10px;
+     height: 40px;
+     width: 50px;
 }
+#name_field{
+    width: 700px;
+}
+#email_field{
+    width: 700px;
+}
+#message_field{
+    width: 700px;
+    height: 100px;
+}
+
